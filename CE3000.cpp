@@ -1,4 +1,3 @@
-/*Hacer un programa que calcule tu edad actual (correctamente) segun tu año de nacimiento y el año actual */
 #include "iostream"
 #include "stdlib.h"
 #include "ctime"
